@@ -20,6 +20,8 @@ namespace Uczet_kadrow
 {
     public partial class add1 : Form
     {
+
+        
         int numbername = 0;
         int iCellHeight = 0;
         int iTotalWidth = 0;
